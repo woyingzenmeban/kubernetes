@@ -8,4 +8,4 @@
 
 
 #### 参考：https://github.com/stefanprodan/k8s-prom-hpa
-
+#### 原文链接：https://github.com/iKubernetes/k8s-prom
